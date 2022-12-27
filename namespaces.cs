@@ -20,3 +20,19 @@
 // - A divisão física se perderá
 // - Sobrará apenas a divisão lógica, que são os namespaces
 // - Evitar de criar com espaços ou caracteres especiais
+
+// using System;
+//using MeuApp.Teste;
+
+//namespace MeuApp
+//{
+    //class Program
+    //{
+        // static void Main(string[] args)
+        //{
+            // var texto = "Testando";
+            //Console.WriteLine(texto); 
+        //}
+
+    //}
+//} 

@@ -1,4 +1,4 @@
-// Variáveis 
+﻿// Variáveis 
 // Definições 
 // - Uma variável é algo que utilizamos para armazenar uma informação
 // - Ser variável significa que seu valor pode ser alterado a qualquer momento
