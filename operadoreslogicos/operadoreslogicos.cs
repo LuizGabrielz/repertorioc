@@ -14,4 +14,4 @@
 //int x = 12;
 // bool entre = (x > 25) && (x < 40); False
 // bool ou = (x > 25) || (x < 40); True
-// bool negação = !(x < 25); False
+// bool negação = !(x < 25); False 
